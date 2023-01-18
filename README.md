@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/cpendo/Product-preview-card-solution
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://cpendo.github.io/Product-preview-card-solution/
 
 ### Built with
 
